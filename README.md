@@ -67,3 +67,5 @@ the test.py file and tweak the HSV min/max values and others configs properly yo
 
 The motion server was made in python to learn the language, but it should have been made in C/C++ to gain execution speed and flowness in the gestures recognitions.
 Also, python environment kinda sucks at the moment, the difficulty to set it up for python3 + opencv2 + windows and then linux was exhausting, I don't recommend.
+
+this page has excellent guides on installation for OpenCV for Python: http://www.pyimagesearch.com/opencv-tutorials-resources-guides/
